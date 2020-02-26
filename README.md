@@ -1,2 +1,2 @@
 # VIP-for-Wordpress
-Only for the logged in users
+Only display content for the logged in users
